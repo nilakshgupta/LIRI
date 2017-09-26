@@ -1,0 +1,2022 @@
+﻿"Shape of You""Shape of You""Ed Sheeran"{
+  "Title": "Matrix",
+  "Year": "1993–",
+  "Rated": "N/A",
+  "Released": "01 Mar 1993",
+  "Runtime": "60 min",
+  "Genre": "Action, Drama, Fantasy",
+  "Director": "N/A",
+  "Writer": "Grenville Case",
+  "Actors": "Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon",
+  "Plot": "Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix \"dies\" and finds ...",
+  "Language": "English",
+  "Country": "Canada",
+  "Awards": "1 win.",
+  "Poster": "N/A",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "8.4",
+  "imdbVotes": "101",
+  "imdbID": "tt0106062",
+  "Type": "series",
+  "totalSeasons": "N/A",
+  "tomatoMeter": "N/A",
+  "tomatoImage": "N/A",
+  "tomatoRating": "N/A",
+  "tomatoReviews": "N/A",
+  "tomatoFresh": "N/A",
+  "tomatoRotten": "N/A",
+  "tomatoConsensus": "N/A",
+  "tomatoUserMeter": "N/A",
+  "tomatoUserRating": "N/A",
+  "tomatoUserReviews": "N/A",
+  "tomatoURL": "N/A",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}{
+  "Title": "Goodfellas",
+  "Year": "1990",
+  "Rated": "R",
+  "Released": "21 Sep 1990",
+  "Runtime": "146 min",
+  "Genre": "Crime, Drama",
+  "Director": "Martin Scorsese",
+  "Writer": "Nicholas Pileggi (book), Nicholas Pileggi (screenplay), Martin Scorsese (screenplay)",
+  "Actors": "Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco",
+  "Plot": "The story of Henry Hill and his life through the teen years into the years of mafia, covering his relationship with his wife Karen Hill and his Mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+  "Language": "English, Italian",
+  "Country": "USA",
+  "Awards": "Won 1 Oscar. Another 37 wins & 35 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNThjMzczMjctZmIwOC00NTQ4LWJhZWItZDdhNTk5ZTdiMWFlXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "Metascore": "89",
+  "imdbRating": "8.7",
+  "imdbVotes": "798,483",
+  "imdbID": "tt0099685",
+  "Type": "movie",
+  "tomatoMeter": "N/A",
+  "tomatoImage": "N/A",
+  "tomatoRating": "N/A",
+  "tomatoReviews": "N/A",
+  "tomatoFresh": "N/A",
+  "tomatoRotten": "N/A",
+  "tomatoConsensus": "N/A",
+  "tomatoUserMeter": "N/A",
+  "tomatoUserRating": "N/A",
+  "tomatoUserReviews": "N/A",
+  "tomatoURL": "http://www.rottentomatoes.com/m/1032176-goodfellas/",
+  "DVD": "26 Mar 1997",
+  "BoxOffice": "N/A",
+  "Production": "Warner Bros.",
+  "Website": "N/A",
+  "Response": "True"
+}{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "MX",
+      "MY",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TH",
+      "TR",
+      "TW",
+      "US",
+      "UY",
+      "VN"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8"
+    },
+    "href": "https://api.spotify.com/v1/albums/7oJa8bPFKVbq4c7NswXHw8",
+    "id": "7oJa8bPFKVbq4c7NswXHw8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/621d2909bcc2c26cd0b274aab0414c9d422a1576",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/c976bfc96d5e44820e553a16a6097cd02a61fd2f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/089726b25ce5a55b906b3b65580a517b65c7c881",
+        "width": 64
+      }
+    ],
+    "name": "Shape of You",
+    "type": "album",
+    "uri": "spotify:album:7oJa8bPFKVbq4c7NswXHw8"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "available_markets": [
+    "AD",
+    "AR",
+    "AT",
+    "AU",
+    "BE",
+    "BG",
+    "BO",
+    "BR",
+    "CA",
+    "CH",
+    "CL",
+    "CO",
+    "CR",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "DO",
+    "EC",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GR",
+    "GT",
+    "HK",
+    "HN",
+    "HU",
+    "ID",
+    "IS",
+    "IT",
+    "JP",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MC",
+    "MT",
+    "MX",
+    "MY",
+    "NI",
+    "NL",
+    "NO",
+    "NZ",
+    "PA",
+    "PE",
+    "PH",
+    "PL",
+    "PT",
+    "PY",
+    "SE",
+    "SG",
+    "SK",
+    "SV",
+    "TH",
+    "TR",
+    "TW",
+    "US",
+    "UY",
+    "VN"
+  ],
+  "disc_number": 1,
+  "duration_ms": 233712,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "GBAHS1600463"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0FE9t6xYkqWXU2ahLh6D8X"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0FE9t6xYkqWXU2ahLh6D8X",
+  "id": "0FE9t6xYkqWXU2ahLh6D8X",
+  "name": "Shape of You",
+  "popularity": 91,
+  "preview_url": "https://p.scdn.co/mp3-preview/84462d8e1e4d0f9e5ccd06f0da390f65843774a2?cid=40ac70ed964748cd9ce2659f048ce6bd",
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0FE9t6xYkqWXU2ahLh6D8X"
+}{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        "href": "https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG",
+        "id": "4V8Sr092TqfHkfAA5fXXqG",
+        "name": "Luis Fonsi",
+        "type": "artist",
+        "uri": "spotify:artist:4V8Sr092TqfHkfAA5fXXqG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
+        "id": "4VMYDCV2IEDYJArk749S6m",
+        "name": "Daddy Yankee",
+        "type": "artist",
+        "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
+    },
+    "href": "https://api.spotify.com/v1/albums/3Gq2Dme9nesdgoqNNlcN8O",
+    "id": "3Gq2Dme9nesdgoqNNlcN8O",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/edcc53317411b5e025e920857fb0f871c4087ce9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ebdc2f8abd0846f609e8b81a6c208935a3bd6eea",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/01ca097819d504ee54d22bf46a2cded3e09bb7e3",
+        "width": 64
+      }
+    ],
+    "name": "Despacito Feat. Justin Bieber (Remix)",
+    "type": "album",
+    "uri": "spotify:album:3Gq2Dme9nesdgoqNNlcN8O"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+      },
+      "href": "https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG",
+      "id": "4V8Sr092TqfHkfAA5fXXqG",
+      "name": "Luis Fonsi",
+      "type": "artist",
+      "uri": "spotify:artist:4V8Sr092TqfHkfAA5fXXqG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+      },
+      "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
+      "id": "4VMYDCV2IEDYJArk749S6m",
+      "name": "Daddy Yankee",
+      "type": "artist",
+      "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+      },
+      "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+      "id": "1uNFoZAHBGtllmzznpCI3s",
+      "name": "Justin Bieber",
+      "type": "artist",
+      "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 228826,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USUM71703825"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6rPO02ozF3bM7NnOV4h6s2",
+  "id": "6rPO02ozF3bM7NnOV4h6s2",
+  "name": "Despacito - Remix",
+  "popularity": 91,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6rPO02ozF3bM7NnOV4h6s2"
+}{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+        "id": "6FBDaR13swtiWwGhX1WQsP",
+        "name": "blink-182",
+        "type": "artist",
+        "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38"
+    },
+    "href": "https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38",
+    "id": "5qt11cWjSs5Gbqj2Wyfu38",
+    "images": [
+      {
+        "height": 636,
+        "url": "https://i.scdn.co/image/13f894c1300cbdda027ff948ee963640c5126d29",
+        "width": 640
+      },
+      {
+        "height": 298,
+        "url": "https://i.scdn.co/image/13df38bffb65d58fde5341184282a908e49689d4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/9c233fb13e1758e6035bc9e19d77cda1b18fe84e",
+        "width": 64
+      }
+    ],
+    "name": "Enema Of The State",
+    "type": "album",
+    "uri": "spotify:album:5qt11cWjSs5Gbqj2Wyfu38"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+      },
+      "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+      "id": "6FBDaR13swtiWwGhX1WQsP",
+      "name": "blink-182",
+      "type": "artist",
+      "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 148573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMC19959007"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5JZcX7TTLx4l0xFIXJ3DBt",
+  "id": "5JZcX7TTLx4l0xFIXJ3DBt",
+  "name": "What's My Age Again?",
+  "popularity": 72,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5JZcX7TTLx4l0xFIXJ3DBt"
+}{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+        "id": "6FBDaR13swtiWwGhX1WQsP",
+        "name": "blink-182",
+        "type": "artist",
+        "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38"
+    },
+    "href": "https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38",
+    "id": "5qt11cWjSs5Gbqj2Wyfu38",
+    "images": [
+      {
+        "height": 636,
+        "url": "https://i.scdn.co/image/13f894c1300cbdda027ff948ee963640c5126d29",
+        "width": 640
+      },
+      {
+        "height": 298,
+        "url": "https://i.scdn.co/image/13df38bffb65d58fde5341184282a908e49689d4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/9c233fb13e1758e6035bc9e19d77cda1b18fe84e",
+        "width": 64
+      }
+    ],
+    "name": "Enema Of The State",
+    "type": "album",
+    "uri": "spotify:album:5qt11cWjSs5Gbqj2Wyfu38"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+      },
+      "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+      "id": "6FBDaR13swtiWwGhX1WQsP",
+      "name": "blink-182",
+      "type": "artist",
+      "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 148573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMC19959007"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5JZcX7TTLx4l0xFIXJ3DBt",
+  "id": "5JZcX7TTLx4l0xFIXJ3DBt",
+  "name": "What's My Age Again?",
+  "popularity": 72,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5JZcX7TTLx4l0xFIXJ3DBt"
+}{
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "Rated": "R",
+  "Released": "26 Sep 2013",
+  "Runtime": "141 min",
+  "Genre": "Drama, Fantasy, Romance",
+  "Director": "Jaco Van Dormael",
+  "Writer": "Jaco Van Dormael",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Language": "English, Mohawk",
+  "Country": "Belgium, Germany, Canada, France, USA, UK",
+  "Awards": "11 wins & 5 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4ODkzMDQ3Nl5BMl5BanBnXkFtZTgwNTEwMTkxMDE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "Metascore": "63",
+  "imdbRating": "7.9",
+  "imdbVotes": "172,168",
+  "imdbID": "tt0485947",
+  "Type": "movie",
+  "tomatoMeter": "N/A",
+  "tomatoImage": "N/A",
+  "tomatoRating": "N/A",
+  "tomatoReviews": "N/A",
+  "tomatoFresh": "N/A",
+  "tomatoRotten": "N/A",
+  "tomatoConsensus": "N/A",
+  "tomatoUserMeter": "N/A",
+  "tomatoUserRating": "N/A",
+  "tomatoUserReviews": "N/A",
+  "tomatoURL": "http://www.rottentomatoes.com/m/mr-nobody/",
+  "DVD": "25 Feb 2014",
+  "BoxOffice": "$3,600",
+  "Production": "Magnolia Pictures",
+  "Website": "http://www.magpictures.com/mrnobody/",
+  "Response": "True"
+}{
+  "album": {
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+        "id": "6FBDaR13swtiWwGhX1WQsP",
+        "name": "blink-182",
+        "type": "artist",
+        "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+      }
+    ],
+    "available_markets": [
+      "CA",
+      "MX",
+      "US"
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38"
+    },
+    "href": "https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38",
+    "id": "5qt11cWjSs5Gbqj2Wyfu38",
+    "images": [
+      {
+        "height": 636,
+        "url": "https://i.scdn.co/image/13f894c1300cbdda027ff948ee963640c5126d29",
+        "width": 640
+      },
+      {
+        "height": 298,
+        "url": "https://i.scdn.co/image/13df38bffb65d58fde5341184282a908e49689d4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/9c233fb13e1758e6035bc9e19d77cda1b18fe84e",
+        "width": 64
+      }
+    ],
+    "name": "Enema Of The State",
+    "type": "album",
+    "uri": "spotify:album:5qt11cWjSs5Gbqj2Wyfu38"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+      },
+      "href": "https://api.spotify.com/v1/artists/6FBDaR13swtiWwGhX1WQsP",
+      "id": "6FBDaR13swtiWwGhX1WQsP",
+      "name": "blink-182",
+      "type": "artist",
+      "uri": "spotify:artist:6FBDaR13swtiWwGhX1WQsP"
+    }
+  ],
+  "available_markets": [
+    "CA",
+    "MX",
+    "US"
+  ],
+  "disc_number": 1,
+  "duration_ms": 148573,
+  "explicit": false,
+  "external_ids": {
+    "isrc": "USMC19959007"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5JZcX7TTLx4l0xFIXJ3DBt",
+  "id": "5JZcX7TTLx4l0xFIXJ3DBt",
+  "name": "What's My Age Again?",
+  "popularity": 72,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:5JZcX7TTLx4l0xFIXJ3DBt"
+}[
+  {
+    "created_at": "Tue Sep 26 09:14:32 +0000 2017",
+    "id": 912606302874079200,
+    "id_str": "912606302874079232",
+    "text": "There’s a ‘catastrophic sleep-loss epidemic,’ and it’s cutting lives short, expert says\nhttps://t.co/dZCNUTftSE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dZCNUTftSE",
+          "expanded_url": "http://www.sacbee.com/latest-news/article175367811.html",
+          "display_url": "sacbee.com/latest-news/ar…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 912600295720579100,
+      "id_str": "912600295720579072",
+      "name": "lbj_fans forever",
+      "screen_name": "lbjfansforever1",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8,
+      "friends_count": 98,
+      "listed_count": 0,
+      "created_at": "Tue Sep 26 08:50:40 +0000 2017",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 26 09:09:56 +0000 2017",
+    "id": 912605144713449500,
+    "id_str": "912605144713449472",
+    "text": "RT @FOXSportsOH: LeBron explains what was going through his head when he heard Kyrie Irving wanted to be traded. https://t.co/KBoypAwE0t",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "FOXSportsOH",
+          "name": "FOX Sports Ohio",
+          "id": 20007980,
+          "id_str": "20007980",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 912392920379961300,
+          "id_str": "912392920379961349",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+          "url": "https://t.co/KBoypAwE0t",
+          "display_url": "pic.twitter.com/KBoypAwE0t",
+          "expanded_url": "https://twitter.com/FOXSportsOH/status/912398097862451200/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 912398097862451200,
+          "source_status_id_str": "912398097862451200",
+          "source_user_id": 20007980,
+          "source_user_id_str": "20007980"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 912392920379961300,
+          "id_str": "912392920379961349",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+          "url": "https://t.co/KBoypAwE0t",
+          "display_url": "pic.twitter.com/KBoypAwE0t",
+          "expanded_url": "https://twitter.com/FOXSportsOH/status/912398097862451200/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 912398097862451200,
+          "source_status_id_str": "912398097862451200",
+          "source_user_id": 20007980,
+          "source_user_id_str": "20007980",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 118867,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/1280x720/NWbr8H4Ib9rWd0GF.mp4"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/912392920379961349/pl/b-lwv4MN_OmW6Uzu.m3u8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/640x360/0JCuIqh4FitUqi_y.mp4"
+              },
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/320x180/0XtxoclC37eW-mjZ.mp4"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": true,
+            "source_user": {
+              "id": 20007980,
+              "id_str": "20007980",
+              "name": "FOX Sports Ohio",
+              "screen_name": "FOXSportsOH",
+              "location": "Ohio",
+              "description": "TV home of @Cavs @Reds @BlueJacketsNHL  #Bearcats #DaytonFlyers & #XUAthletics in OH, KY, IN, PA,& NY http://t.co/qYGVSx95zT",
+              "url": "http://t.co/AKApYeKNtB",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "http://t.co/AKApYeKNtB",
+                      "expanded_url": "http://www.foxsportsohio.com",
+                      "display_url": "foxsportsohio.com",
+                      "indices": [
+                        0,
+                        22
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+                    {
+                      "url": "http://t.co/qYGVSx95zT",
+                      "expanded_url": "http://www.facebook.com/foxsportsohio",
+                      "display_url": "facebook.com/foxsportsohio",
+                      "indices": [
+                        102,
+                        124
+                      ]
+                    }
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 61332,
+              "friends_count": 725,
+              "listed_count": 1010,
+              "created_at": "Tue Feb 03 22:01:27 +0000 2009",
+              "favourites_count": 1339,
+              "utc_offset": -14400,
+              "time_zone": "Eastern Time (US & Canada)",
+              "geo_enabled": true,
+              "verified": true,
+              "statuses_count": 68006,
+              "lang": "en",
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "131516",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_tile": true,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/746179968007348226/LgBexfZw_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/746179968007348226/LgBexfZw_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/20007980/1493648026",
+              "profile_link_color": "009999",
+              "profile_sidebar_border_color": "EEEEEE",
+              "profile_sidebar_fill_color": "EFEFEF",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 912600295720579100,
+      "id_str": "912600295720579072",
+      "name": "lbj_fans forever",
+      "screen_name": "lbjfansforever1",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8,
+      "friends_count": 98,
+      "listed_count": 0,
+      "created_at": "Tue Sep 26 08:50:40 +0000 2017",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Sep 25 19:27:12 +0000 2017",
+      "id": 912398097862451200,
+      "id_str": "912398097862451200",
+      "text": "LeBron explains what was going through his head when he heard Kyrie Irving wanted to be traded. https://t.co/KBoypAwE0t",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 912392920379961300,
+            "id_str": "912392920379961349",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+            "url": "https://t.co/KBoypAwE0t",
+            "display_url": "pic.twitter.com/KBoypAwE0t",
+            "expanded_url": "https://twitter.com/FOXSportsOH/status/912398097862451200/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 912392920379961300,
+            "id_str": "912392920379961349",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+            "url": "https://t.co/KBoypAwE0t",
+            "display_url": "pic.twitter.com/KBoypAwE0t",
+            "expanded_url": "https://twitter.com/FOXSportsOH/status/912398097862451200/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 118867,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/1280x720/NWbr8H4Ib9rWd0GF.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/912392920379961349/pl/b-lwv4MN_OmW6Uzu.m3u8"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/640x360/0JCuIqh4FitUqi_y.mp4"
+                },
+                {
+                  "bitrate": 320000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/320x180/0XtxoclC37eW-mjZ.mp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "title": "",
+              "description": "",
+              "embeddable": true,
+              "monetizable": true
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20007980,
+        "id_str": "20007980",
+        "name": "FOX Sports Ohio",
+        "screen_name": "FOXSportsOH",
+        "location": "Ohio",
+        "description": "TV home of @Cavs @Reds @BlueJacketsNHL  #Bearcats #DaytonFlyers & #XUAthletics in OH, KY, IN, PA,& NY http://t.co/qYGVSx95zT",
+        "url": "http://t.co/AKApYeKNtB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/AKApYeKNtB",
+                "expanded_url": "http://www.foxsportsohio.com",
+                "display_url": "foxsportsohio.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/qYGVSx95zT",
+                "expanded_url": "http://www.facebook.com/foxsportsohio",
+                "display_url": "facebook.com/foxsportsohio",
+                "indices": [
+                  102,
+                  124
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 61332,
+        "friends_count": 725,
+        "listed_count": 1010,
+        "created_at": "Tue Feb 03 22:01:27 +0000 2009",
+        "favourites_count": 1339,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 68006,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/746179968007348226/LgBexfZw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/746179968007348226/LgBexfZw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20007980/1493648026",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 99,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 35,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 26 08:54:32 +0000 2017",
+    "id": 912601269570850800,
+    "id_str": "912601269570850816",
+    "text": "Hurricane Maria Children's Relief Fund\nhttps://t.co/bRI2Qtu7Wt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bRI2Qtu7Wt",
+          "expanded_url": "https://secure.savethechildren.org/site/c.8rKLIXMGIpI4E/b.9535647/k.A2B9/Hurricane_Maria_Childrens_Relief_Fund/apps/ka/sd/donor.asp?msource=wexgphca0917&gclid=Cj0KCQjw9afOBRDWARIsAJW4nvyvz_xBTQypC74D0BMxmwet0Vd8UWO47SpKZ7S_OquO5VjaGAQtWrAaAi4qEALw_wcB#dStep",
+          "display_url": "secure.savethechildren.org/site/c.8rKLIXM…",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 912600295720579100,
+      "id_str": "912600295720579072",
+      "name": "lbj_fans forever",
+      "screen_name": "lbjfansforever1",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8,
+      "friends_count": 98,
+      "listed_count": 0,
+      "created_at": "Tue Sep 26 08:50:40 +0000 2017",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+][
+  {
+    "created_at": "Tue Sep 26 09:14:32 +0000 2017",
+    "id": 912606302874079200,
+    "id_str": "912606302874079232",
+    "text": "There’s a ‘catastrophic sleep-loss epidemic,’ and it’s cutting lives short, expert says\nhttps://t.co/dZCNUTftSE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dZCNUTftSE",
+          "expanded_url": "http://www.sacbee.com/latest-news/article175367811.html",
+          "display_url": "sacbee.com/latest-news/ar…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 912600295720579100,
+      "id_str": "912600295720579072",
+      "name": "lbj_fans forever",
+      "screen_name": "lbjfansforever1",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8,
+      "friends_count": 98,
+      "listed_count": 0,
+      "created_at": "Tue Sep 26 08:50:40 +0000 2017",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 26 09:09:56 +0000 2017",
+    "id": 912605144713449500,
+    "id_str": "912605144713449472",
+    "text": "RT @FOXSportsOH: LeBron explains what was going through his head when he heard Kyrie Irving wanted to be traded. https://t.co/KBoypAwE0t",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "FOXSportsOH",
+          "name": "FOX Sports Ohio",
+          "id": 20007980,
+          "id_str": "20007980",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 912392920379961300,
+          "id_str": "912392920379961349",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+          "url": "https://t.co/KBoypAwE0t",
+          "display_url": "pic.twitter.com/KBoypAwE0t",
+          "expanded_url": "https://twitter.com/FOXSportsOH/status/912398097862451200/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 912398097862451200,
+          "source_status_id_str": "912398097862451200",
+          "source_user_id": 20007980,
+          "source_user_id_str": "20007980"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 912392920379961300,
+          "id_str": "912392920379961349",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+          "url": "https://t.co/KBoypAwE0t",
+          "display_url": "pic.twitter.com/KBoypAwE0t",
+          "expanded_url": "https://twitter.com/FOXSportsOH/status/912398097862451200/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 912398097862451200,
+          "source_status_id_str": "912398097862451200",
+          "source_user_id": 20007980,
+          "source_user_id_str": "20007980",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 118867,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/1280x720/NWbr8H4Ib9rWd0GF.mp4"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/912392920379961349/pl/b-lwv4MN_OmW6Uzu.m3u8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/640x360/0JCuIqh4FitUqi_y.mp4"
+              },
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/320x180/0XtxoclC37eW-mjZ.mp4"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": true,
+            "source_user": {
+              "id": 20007980,
+              "id_str": "20007980",
+              "name": "FOX Sports Ohio",
+              "screen_name": "FOXSportsOH",
+              "location": "Ohio",
+              "description": "TV home of @Cavs @Reds @BlueJacketsNHL  #Bearcats #DaytonFlyers & #XUAthletics in OH, KY, IN, PA,& NY http://t.co/qYGVSx95zT",
+              "url": "http://t.co/AKApYeKNtB",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "http://t.co/AKApYeKNtB",
+                      "expanded_url": "http://www.foxsportsohio.com",
+                      "display_url": "foxsportsohio.com",
+                      "indices": [
+                        0,
+                        22
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+                    {
+                      "url": "http://t.co/qYGVSx95zT",
+                      "expanded_url": "http://www.facebook.com/foxsportsohio",
+                      "display_url": "facebook.com/foxsportsohio",
+                      "indices": [
+                        102,
+                        124
+                      ]
+                    }
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 61332,
+              "friends_count": 725,
+              "listed_count": 1010,
+              "created_at": "Tue Feb 03 22:01:27 +0000 2009",
+              "favourites_count": 1339,
+              "utc_offset": -14400,
+              "time_zone": "Eastern Time (US & Canada)",
+              "geo_enabled": true,
+              "verified": true,
+              "statuses_count": 68006,
+              "lang": "en",
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "131516",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_tile": true,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/746179968007348226/LgBexfZw_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/746179968007348226/LgBexfZw_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/20007980/1493648026",
+              "profile_link_color": "009999",
+              "profile_sidebar_border_color": "EEEEEE",
+              "profile_sidebar_fill_color": "EFEFEF",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 912600295720579100,
+      "id_str": "912600295720579072",
+      "name": "lbj_fans forever",
+      "screen_name": "lbjfansforever1",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8,
+      "friends_count": 98,
+      "listed_count": 0,
+      "created_at": "Tue Sep 26 08:50:40 +0000 2017",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Sep 25 19:27:12 +0000 2017",
+      "id": 912398097862451200,
+      "id_str": "912398097862451200",
+      "text": "LeBron explains what was going through his head when he heard Kyrie Irving wanted to be traded. https://t.co/KBoypAwE0t",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 912392920379961300,
+            "id_str": "912392920379961349",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+            "url": "https://t.co/KBoypAwE0t",
+            "display_url": "pic.twitter.com/KBoypAwE0t",
+            "expanded_url": "https://twitter.com/FOXSportsOH/status/912398097862451200/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 912392920379961300,
+            "id_str": "912392920379961349",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/912392920379961349/img/G_jHsxognKoytU3C.jpg",
+            "url": "https://t.co/KBoypAwE0t",
+            "display_url": "pic.twitter.com/KBoypAwE0t",
+            "expanded_url": "https://twitter.com/FOXSportsOH/status/912398097862451200/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 118867,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/1280x720/NWbr8H4Ib9rWd0GF.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/912392920379961349/pl/b-lwv4MN_OmW6Uzu.m3u8"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/640x360/0JCuIqh4FitUqi_y.mp4"
+                },
+                {
+                  "bitrate": 320000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/912392920379961349/vid/320x180/0XtxoclC37eW-mjZ.mp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "title": "",
+              "description": "",
+              "embeddable": true,
+              "monetizable": true
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20007980,
+        "id_str": "20007980",
+        "name": "FOX Sports Ohio",
+        "screen_name": "FOXSportsOH",
+        "location": "Ohio",
+        "description": "TV home of @Cavs @Reds @BlueJacketsNHL  #Bearcats #DaytonFlyers & #XUAthletics in OH, KY, IN, PA,& NY http://t.co/qYGVSx95zT",
+        "url": "http://t.co/AKApYeKNtB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/AKApYeKNtB",
+                "expanded_url": "http://www.foxsportsohio.com",
+                "display_url": "foxsportsohio.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/qYGVSx95zT",
+                "expanded_url": "http://www.facebook.com/foxsportsohio",
+                "display_url": "facebook.com/foxsportsohio",
+                "indices": [
+                  102,
+                  124
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 61332,
+        "friends_count": 725,
+        "listed_count": 1010,
+        "created_at": "Tue Feb 03 22:01:27 +0000 2009",
+        "favourites_count": 1339,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 68006,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/746179968007348226/LgBexfZw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/746179968007348226/LgBexfZw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20007980/1493648026",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 99,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 35,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 26 08:54:32 +0000 2017",
+    "id": 912601269570850800,
+    "id_str": "912601269570850816",
+    "text": "Hurricane Maria Children's Relief Fund\nhttps://t.co/bRI2Qtu7Wt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bRI2Qtu7Wt",
+          "expanded_url": "https://secure.savethechildren.org/site/c.8rKLIXMGIpI4E/b.9535647/k.A2B9/Hurricane_Maria_Childrens_Relief_Fund/apps/ka/sd/donor.asp?msource=wexgphca0917&gclid=Cj0KCQjw9afOBRDWARIsAJW4nvyvz_xBTQypC74D0BMxmwet0Vd8UWO47SpKZ7S_OquO5VjaGAQtWrAaAi4qEALw_wcB#dStep",
+          "display_url": "secure.savethechildren.org/site/c.8rKLIXM…",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 912600295720579100,
+      "id_str": "912600295720579072",
+      "name": "lbj_fans forever",
+      "screen_name": "lbjfansforever1",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8,
+      "friends_count": 98,
+      "listed_count": 0,
+      "created_at": "Tue Sep 26 08:50:40 +0000 2017",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
