@@ -22,3 +22,4 @@ Spotify
 To access the Spotify API and search for song information
 Request
 To request the OMDB API
+
